@@ -1,68 +1,128 @@
-🍔 Swiggy Sales Dashboard | Advanced Excel Project
- Project Summary
+# 🍔 Swiggy Sales Dashboard
+## 🚀 Overview
+This project presents an interactive Sales Dashboard built using Advanced Excel.
+It transforms raw Swiggy data into meaningful insights to analyze sales performance, customer behavior, and business trends.
 
-This project presents a comprehensive Sales Analysis Dashboard built entirely in Advanced Excel.
-It transforms raw Swiggy data into meaningful insights using powerful Excel features, enabling data-driven decision-making.
+🎯 Problem Statement
+In the food delivery industry, analyzing large datasets is essential to:
 
-🎯 Business Problem
 
-Food delivery platforms generate massive transactional data.
-The challenge is to:
+Identify revenue-driving factors
 
-Understand customer ordering behavior
-Identify high-performing cities & categories
-Track revenue trends over time
-Improve business strategies using data insights
-💡 Solution Approach
-Cleaned and structured raw dataset
-Performed data transformation using Excel formulas
-Built dynamic Pivot Tables for aggregation
-Designed an interactive dashboard using slicers and charts
-🛠️ Tech Stack
 
-Tool Used: Microsoft Excel (Advanced)
+Understand customer preferences
 
-Key Features Applied:
 
-- Pivot Tables & Pivot Charts
-- Slicers for interactivity
-- Conditional Formatting
-- Data Cleaning Techniques
+Improve business performance
+
+
+
+ ## 💡 Solution
+Developed a dynamic Excel dashboard that:
+
+
+Cleans and structures raw data
+
+
+Uses Pivot Tables for aggregation
+
+
+Applies slicers for interactivity
+
+
+Visualizes insights through charts
+
+
+
+## 🛠️ Tools & Techniques
+
+
+Microsoft Excel (Advanced)
+
+
+Pivot Tables & Pivot Charts
+
+
+Slicers & Filters
+
+
+Conditional Formatting
+
 
 Excel Functions:
+
+
 SUMIFS, COUNTIFS
+
+
 IF, IFERROR
-XLOOKUP / VLOOKUP
 
-📊 Dashboard Highlights
-📈 Sales Trend Analysis (Time-based)
-🌍 City-wise Performance Breakdown
-🍽️ Category-wise Sales Distribution
-⭐ Customer Rating Analysis
-💰 Revenue & Order Metrics
 
-📌 Key KPIs
-- Total Revenue
-- Total Orders
-- Average Order Value (AOV)
-- Customer Ratings
-- Top Cities by Sales
+XLOOKUP
 
-🔍 Insights Generated
 
-📅 Weekend sales significantly higher than weekdays
-🌆 Few cities contribute majority of revenue (Pareto effect)
-⭐ Higher-rated restaurants attract more customers
-🌙 Peak ordering time is evening
-📦 Combo offers increase order value
-📂 Project Structure
-📁 Swiggy-Excel-Dashboard
-│── 📊 Swiggy_Dashboard.xlsx
-│── 📁 Dataset
-│     └── swiggy_data.xlsx
-│── 📁 Images
-│     └── dashboard.png
-│── 📄 README.md
-📸 Dashboard Preview
 
-<p align="center"> <img src="Images/dashboard.png" width="900"/> </p>
+
+
+## 📊 Key KPIs
+
+
+Total Sales 💰
+
+
+Total Orders 📦
+
+
+Average Order Value (AOV) 📈
+
+
+Customer Ratings ⭐
+
+
+City-wise Sales 🌍
+
+
+
+## 📈 Dashboard Features
+
+
+Interactive slicers (City, Category, Date)
+
+
+Sales trend analysis (monthly/yearly)
+
+
+Top-performing cities and categories
+
+
+Customer rating distribution
+
+
+Revenue insights
+
+
+
+## 🔍 Key Insights
+
+
+Sales are higher on weekends 📅
+
+
+Top cities generate most revenue 🌆
+
+
+Higher ratings lead to more orders ⭐
+
+
+Evening time has peak orders 🌙
+
+
+Combo offers increase order value 📦
+
+
+
+## 📸 Dashboard Preview
+<p align="center">
+  <img src="dashboard.png" width="900"/>
+</p>
+
